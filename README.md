@@ -12,4 +12,4 @@ User can view his subscriptions or even unsubscribe from a twitter account
 
 Check out the bot!  
 
-<img src="TweetStreamQRCode](https://user-images.githubusercontent.com/84120092/193036478-410f57b2-a4b8-4749-bef1-2a6341a9a2fd.jpeg" width="300" height="560">
+<img src="https://user-images.githubusercontent.com/84120092/193036478-410f57b2-a4b8-4749-bef1-2a6341a9a2fd.jpeg" width="300" height="560">
