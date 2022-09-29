@@ -1,5 +1,5 @@
 User Subscribes and gets update from the Twitter account
-<img src="https://user-images.githubusercontent.com/84120092/193036381-267e5ec6-9986-4d23-84c0-554070d22522.jpeg" width="150" height="280">
+<img src="https://user-images.githubusercontent.com/84120092/193036381-267e5ec6-9986-4d23-84c0-554070d22522.jpeg" width="300" height="560">
 
 
 
