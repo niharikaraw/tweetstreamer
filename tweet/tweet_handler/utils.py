@@ -90,6 +90,7 @@ def publish_message(data):
 
     url = "http://127.0.0.1:8000/tweet_stream/"
 
+
     payload = json.dumps(data)
     headers = {
     'Content-Type': 'application/json'
@@ -105,9 +106,9 @@ def publish_message(data):
 
 
 
-'''get_rules---**** {"data": [{"id": "1571785052744462337", "value": "from:mrishabh781"}], "meta": {"sent": "2022-09-19T08:57:18.750Z", "result_count": 1}}
+'''get_rules---**** {"data": [{"id": "1571785052744462337", "value": "from:ani_digital"}], "meta": {"sent": "2022-09-19T08:57:18.750Z", "result_count": 1}}
 delete_all_rules---$$$$ {"meta": {"sent": "2022-09-19T08:57:19.453Z", "summary": {"deleted": 1, "not_deleted": 0}}}
-set_rules---######### {"data": [{"value": "from:mrishabh781", "id": "1571785499026784257"}], "meta": {"sent": "2022-09-19T08:57:20.343Z", "summary": {"created": 1, "not_created": 0, "valid": 1, "invalid": 0}}}
+set_rules---######### {"data": [{"value": "from:ani_digital", "id": "1571785499026784257"}], "meta": {"sent": "2022-09-19T08:57:20.343Z", "summary": {"created": 1, "not_created": 0, "valid": 1, "invalid": 0}}}
 200
 get_stream---__________________ {
     "data": {
